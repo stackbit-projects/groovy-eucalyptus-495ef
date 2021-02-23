@@ -6,10 +6,7 @@ sections:
     type: section_hero
   - section_id: about
     type: section_content
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: button
+    actions: []
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
