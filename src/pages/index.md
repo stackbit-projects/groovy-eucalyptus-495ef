@@ -2,8 +2,6 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: hero
-    type: section_hero
   - section_id: about
     type: section_content
     actions: []
