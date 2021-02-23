@@ -2,9 +2,6 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: about
-    type: section_content
-    actions: []
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
