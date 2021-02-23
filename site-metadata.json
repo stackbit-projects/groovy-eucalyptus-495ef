@@ -74,7 +74,18 @@
         ]
     },
     "footer": {
-        "content": "&copy; Design is Copyleft. Content is copyrighted. All rights reserved. "
+        "content": "&copy; Design is Copyleft. Content is copyrighted. All rights reserved. ",
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ]
     },
     "title": "Stackbit Fresh Theme",
     "domain": "https://groovy-eucalyptus-495ef.netlify.app"
